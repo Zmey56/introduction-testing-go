@@ -1,0 +1,21 @@
+mode: set
+github.com/zmey56/introduction-testing-go/main.go:11.13,23.2 6 0
+github.com/zmey56/introduction-testing-go/main.go:25.40,28.6 2 0
+github.com/zmey56/introduction-testing-go/main.go:28.6,31.11 2 0
+github.com/zmey56/introduction-testing-go/main.go:31.11,34.4 2 0
+github.com/zmey56/introduction-testing-go/main.go:36.3,37.11 2 0
+github.com/zmey56/introduction-testing-go/main.go:41.58,44.44 2 0
+github.com/zmey56/introduction-testing-go/main.go:44.44,46.3 1 0
+github.com/zmey56/introduction-testing-go/main.go:48.2,49.16 2 0
+github.com/zmey56/introduction-testing-go/main.go:49.16,51.3 1 0
+github.com/zmey56/introduction-testing-go/main.go:53.2,55.19 2 0
+github.com/zmey56/introduction-testing-go/main.go:58.14,63.2 4 1
+github.com/zmey56/introduction-testing-go/main.go:65.15,67.2 1 1
+github.com/zmey56/introduction-testing-go/main.go:69.36,70.22 1 1
+github.com/zmey56/introduction-testing-go/main.go:70.22,72.3 1 1
+github.com/zmey56/introduction-testing-go/main.go:74.2,74.11 1 1
+github.com/zmey56/introduction-testing-go/main.go:74.11,76.3 1 1
+github.com/zmey56/introduction-testing-go/main.go:78.2,78.28 1 1
+github.com/zmey56/introduction-testing-go/main.go:78.28,79.15 1 1
+github.com/zmey56/introduction-testing-go/main.go:79.15,81.4 1 1
+github.com/zmey56/introduction-testing-go/main.go:84.2,84.51 1 1
